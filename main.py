@@ -8,7 +8,6 @@ import torch.nn as nn
 import torch.optim as optim
 import torch.utils.data as data
 import torch.backends.cudnn as cudnn
-from tensorboardX import SummaryWriter
 
 import model
 import config
